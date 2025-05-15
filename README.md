@@ -1,4 +1,4 @@
-# countries_guessing_game
+# countries_guessing_game by younes rouass
 
 A new Flutter project.
 
